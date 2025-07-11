@@ -1,5 +1,6 @@
 ## Привет! Меня зовут Евгений! ✨ https://freelance.ru/jjjefff
 [![Freelance.ru](https://img.shields.io/badge/Freelance.ru-1a202c?style=for-the-badge&logo=freelancer&logoColor=white)](https://freelance.ru/jjjefff)
+[![Zerocoder University](https://img.shields.io/badge/Zerocoder%20University-1e88e5?style=for-the-badge&logo=graduation-cap&logoColor=white)](https://university.zerocoder.ru/pl/368859683)
 
 ## Hi there, I'm Evgeniy! 👋                                                                                                                                                                                                                                                                                         
 ![Backend](https://img.shields.io/badge/Backend-000000?style=for-the-badge&logoColor=white)
