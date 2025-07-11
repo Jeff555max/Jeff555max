@@ -1,7 +1,8 @@
 ## Привет! Меня зовут Евгений! ✨
 ## Hi there, I'm Evgeniy 👋
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
+![Backend](https://img.shields.io/badge/Backend-000000?style=for-the-badge&logoColor=white)
+![Frontend](https://img.shields.io/badge/Frontend-7952B3?style=for-the-badge&logoColor=white)
 
 <!--
 **Jeff555max/Jeff555max** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
