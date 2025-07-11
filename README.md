@@ -1,7 +1,8 @@
 ## Привет! Меня зовут Евгений! ✨ https://freelance.ru/jjjefff
-## Hi there, I'm Evgeniy! 👋                                                                                                                                                                                         [![Freelance.ru](https://img.shields.io/badge/Freelance.ru-1a202c?style=for-the-badge&logo=freelancer&logoColor=white)](https://freelance.ru/jjjefff)
+[![Freelance.ru](https://img.shields.io/badge/Freelance.ru-1a202c?style=for-the-badge&logo=freelancer&logoColor=white)](https://freelance.ru/jjjefff)
 [![Zerocoder University](https://img.shields.io/badge/Zerocoder%20University-1e88e5?style=for-the-badge&logo=graduation-cap&logoColor=white)](https://university.zerocoder.ru/pl/368859683)
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/JJJeFFF5)                                                                                                
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/JJJeFFF5)  
+## Hi there, I'm Evgeniy! 👋                                                                                                                                                                                                                                                                                       
 ![Backend](https://img.shields.io/badge/Backend-000000?style=for-the-badge&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
