@@ -30,3 +30,7 @@ https://github.com/Jeff555max/Jeff555max/blob/main/README.md
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Celery](https://img.shields.io/badge/-Celery-37814A?style=for-the-badge&logo=celery&logoColor=white)
+
+
