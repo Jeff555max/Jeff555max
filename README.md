@@ -1,5 +1,5 @@
 ## Привет! Меня зовут Евгений! ✨ https://freelance.ru/jjjefff
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://freelance.ru/jjjefff)
+[![Freelance.ru](https://img.shields.io/badge/Freelance.ru-1a202c?style=for-the-badge&logo=freelancer&logoColor=white)](https://freelance.ru/jjjefff)
 
 ## Hi there, I'm Evgeniy! 👋                                                                                                                                                                                                                                                                                         
 ![Backend](https://img.shields.io/badge/Backend-000000?style=for-the-badge&logoColor=white)
