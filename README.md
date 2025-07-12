@@ -7,6 +7,7 @@
 [![WhatsApp](https://img.icons8.com/color/48/000000/whatsapp--v1.png)](https://wa.me/79222667354)
 [![Zerocoder University](https://img.icons8.com/color/48/000000/graduation-cap.png)](https://university.zerocoder.ru/pl/368859683)
 [![Freelance.ru](https://img.icons8.com/color/48/000000/portfolio.png)](https://freelance.ru/jjjefff)
+[![Freelance.ru](https://img.icons8.com/color/48/000000/star--v1.png)](https://freelance.ru/jjjefff)
 
 
 ## Hi there, I'm Evgeniy! 👋                                                                                                                                                                                                                                                                                       
