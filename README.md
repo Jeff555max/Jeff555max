@@ -8,6 +8,7 @@
 [![Zerocoder University](https://img.icons8.com/color/48/000000/graduation-cap.png)](https://university.zerocoder.ru/pl/368859683)
 [![Freelance.ru](https://img.icons8.com/color/48/000000/portfolio.png)](https://freelance.ru/jjjefff)
 [![Freelance.ru](https://img.icons8.com/color/48/000000/star--v1.png)](https://freelance.ru/jjjefff)
+[![Freelance.ru](https://img.icons8.com/color/48/000000/laptop--v1.png)](https://freelance.ru/jjjefff)
 
 
 ## Hi there, I'm Evgeniy! 👋                                                                                                                                                                                                                                                                                       
