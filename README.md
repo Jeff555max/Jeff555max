@@ -7,6 +7,7 @@
 [![WhatsApp](https://img.icons8.com/color/48/000000/whatsapp--v1.png)](https://wa.me/79222667354)
 [![Zerocoder University](https://img.icons8.com/color/48/000000/graduation-cap.png)](https://university.zerocoder.ru/pl/368859683)
 [![Freelance.ru](https://img.icons8.com/color/48/000000/laptop--v1.png)](https://freelance.ru/jjjefff)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jeff555max&show_icons=true&theme=github_dark)
 
 ## Hi there, I'm Evgeniy! 👋                                                                                                                                                                                                                                                                                       
 ![Backend](https://img.shields.io/badge/Backend-000000?style=for-the-badge&logoColor=white)
