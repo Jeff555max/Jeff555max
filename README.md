@@ -1,4 +1,5 @@
-## Привет! Меня зовут Евгений! ✨ [![Freelance.ru](https://img.icons8.com/color/48/000000/star--v1.png)](https://freelance.ru/jjjefff) <details>
+## Привет! Меня зовут Евгений! ✨ [![Freelance.ru](https://img.icons8.com/color/48/000000/star--v1.png)](https://freelance.ru/jjjefff) 
+<details>
   <summary>Подробнее обо мне</summary>
   Текст, который будет скрыт, пока не нажмёшь.
 </details>
