@@ -4,9 +4,8 @@
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/JJJeFFF5)  [![VK](https://img.shields.io/badge/VK-4C75A3?style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/id10216908)
 
 [![Telegram](https://img.icons8.com/color/48/000000/telegram-app--v1.png)](https://t.me/JJJeFFF5)
-
-
-
+[![VK](https://img.icons8.com/color/48/000000/vk-circled.png)](https://vk.com/id10216908)
+[![Phone](https://img.icons8.com/color/48/000000/phone.png)](tel:+79222667354)
 
 ## Hi there, I'm Evgeniy! 👋                                                                                                                                                                                                                                                                                       
 ![Backend](https://img.shields.io/badge/Backend-000000?style=for-the-badge&logoColor=white)
