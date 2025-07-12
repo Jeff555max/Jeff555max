@@ -6,6 +6,7 @@
 
 [![Freelance.ru](https://img.shields.io/badge/Freelance.ru-1a202c?style=for-the-badge&logo=freelancer&logoColor=white)](https://freelance.ru/jjjefff)
 [![Zerocoder University](https://img.shields.io/badge/Zerocoder%20University-1e88e5?style=for-the-badge&logo=graduation-cap&logoColor=white)](https://university.zerocoder.ru/pl/368859683)
+[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=spotify_user_id&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false)](https://spotify.com)
 
 [![Telegram](https://img.icons8.com/color/48/000000/telegram-app--v1.png)](https://t.me/JJJeFFF5)
 [![VK](https://img.icons8.com/color/48/000000/vk-circled.png)](https://vk.com/id10216908)
