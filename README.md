@@ -5,6 +5,8 @@
 [![Telegram](https://img.icons8.com/color/48/000000/telegram-app--v1.png)](https://t.me/JJJeFFF5)
 [![VK](https://img.icons8.com/color/48/000000/vk-circled.png)](https://vk.com/id10216908)
 [![WhatsApp](https://img.icons8.com/color/48/000000/whatsapp--v1.png)](https://wa.me/79222667354)
+[![Freelance.ru](https://img.icons8.com/color/48/000000/freelancer.png)](https://freelance.ru/jjjefff)
+[![Zerocoder University](https://img.icons8.com/color/48/000000/graduation-cap.png)](https://university.zerocoder.ru/pl/368859683)
 
 
 ## Hi there, I'm Evgeniy! 👋                                                                                                                                                                                                                                                                                       
