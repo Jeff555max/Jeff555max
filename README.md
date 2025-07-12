@@ -2,8 +2,7 @@
 [![Freelance.ru](https://img.shields.io/badge/Freelance.ru-1a202c?style=for-the-badge&logo=freelancer&logoColor=white)](https://freelance.ru/jjjefff)
 [![Zerocoder University](https://img.shields.io/badge/Zerocoder%20University-1e88e5?style=for-the-badge&logo=graduation-cap&logoColor=white)](https://university.zerocoder.ru/pl/368859683)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/JJJeFFF5)  [![VK](https://img.shields.io/badge/VK-4C75A3?style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/id10216908)
-[![Telegram](https://img.shields.io/badge/-2CA5E0?style=social&logo=telegram&logoColor=white)](https://t.me/JJJeFFF5)
-[![VK](https://img.shields.io/badge/-4C75A3?style=social&logo=vk&logoColor=white)](https://vk.com/id10216908)
+[![Telegram](https://img.icons8.com/color/48/000000/telegram-app--v1.png)](https://t.me/JJJeFFF5)
 
 
 
