@@ -1,4 +1,4 @@
-## Привет! Меня зовут Евгений! ✨ [![Freelance.ru](https://img.icons8.com/color/48/000000/star--v1.png)](https://fs.getcourse.ru/fileservice/file/download/a/256825/sc/164/h/c2f74b9d4e987c41d7724adb94178a72.png?gcmes=74824180329)  [![Freelance.ru](https://img.icons8.com/color/48/000000/star--v1.png)](http://fs.getcourse.ru/fileservice/file/download/a/256825/sc/185/h/6be79368cc1741a186e4eba2403aa3c6.png) [![Freelance.ru](https://img.icons8.com/color/48/000000/star--v1.png)](http://fs.getcourse.ru/fileservice/file/download/a/256825/sc/193/h/0472a4fb9949377cc3508e4bdd0ad08a.png) Жми на звезды
+## Привет! Меня зовут Евгений! [![Freelance.ru](https://img.icons8.com/color/48/000000/star--v1.png)](https://fs.getcourse.ru/fileservice/file/download/a/256825/sc/164/h/c2f74b9d4e987c41d7724adb94178a72.png?gcmes=74824180329)  [![Freelance.ru](https://img.icons8.com/color/48/000000/star--v1.png)](http://fs.getcourse.ru/fileservice/file/download/a/256825/sc/185/h/6be79368cc1741a186e4eba2403aa3c6.png) [![Freelance.ru](https://img.icons8.com/color/48/000000/star--v1.png)](http://fs.getcourse.ru/fileservice/file/download/a/256825/sc/193/h/0472a4fb9949377cc3508e4bdd0ad08a.png) Жми на звезды
 
 <details>
   <summary>Подробнее обо мне</summary>
@@ -15,7 +15,7 @@
 [![Freelance.ru](https://img.icons8.com/color/48/000000/laptop--v1.png)](https://freelance.ru/jjjefff)
 
 
-## Hi there, I'm Evgeniy! 👋                                                                                                                                                                                                                                                                                       
+## Hi there, I'm Evgeniy! 👋 ✨                                                                                                                                                                                                                                                                                       
 ![Backend](https://img.shields.io/badge/Backend-000000?style=for-the-badge&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
