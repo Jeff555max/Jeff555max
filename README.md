@@ -9,6 +9,7 @@
 [![Freelance.ru](https://img.icons8.com/color/48/000000/portfolio.png)](https://freelance.ru/jjjefff)
 [![Freelance.ru](https://img.icons8.com/color/48/000000/star--v1.png)](https://freelance.ru/jjjefff)
 [![Freelance.ru](https://img.icons8.com/color/48/000000/laptop--v1.png)](https://freelance.ru/jjjefff)
+[![Freelance.ru](https://freelance.ru/img/freelancer/favicon/apple-icon-120x120.png)](https://freelance.ru/jjjefff)
 
 
 ## Hi there, I'm Evgeniy! 👋                                                                                                                                                                                                                                                                                       
