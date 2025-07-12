@@ -1,12 +1,10 @@
 ## Привет! Меня зовут Евгений! ✨ https://freelance.ru/jjjefff
 [![Freelance.ru](https://img.shields.io/badge/Freelance.ru-1a202c?style=for-the-badge&logo=freelancer&logoColor=white)](https://freelance.ru/jjjefff)
 [![Zerocoder University](https://img.shields.io/badge/Zerocoder%20University-1e88e5?style=for-the-badge&logo=graduation-cap&logoColor=white)](https://university.zerocoder.ru/pl/368859683)
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/JJJeFFF5)  [![VK](https://img.shields.io/badge/VK-4C75A3?style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/id10216908)
 
 [![Telegram](https://img.icons8.com/color/48/000000/telegram-app--v1.png)](https://t.me/JJJeFFF5)
 [![VK](https://img.icons8.com/color/48/000000/vk-circled.png)](https://vk.com/id10216908)
 [![WhatsApp](https://img.icons8.com/color/48/000000/whatsapp--v1.png)](https://wa.me/79222667354)
-[![Phone](https://img.icons8.com/color/48/000000/phone.png)](tel:+79222667354)
 
 
 ## Hi there, I'm Evgeniy! 👋                                                                                                                                                                                                                                                                                       
