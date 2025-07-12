@@ -19,7 +19,6 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jeff555max&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Jeff555max/Jeff555max** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -62,6 +61,8 @@ https://github.com/Jeff555max/Jeff555max/blob/main/README.md
 ![Scrapy](https://img.shields.io/badge/-Scrapy-14A13C?style=for-the-badge&logo=scrapy&logoColor=white)
 ![Aiogram](https://img.shields.io/badge/-Aiogram-2F253A?style=for-the-badge&logo=python&logoColor=white)
 ![Telegram Bot](https://img.shields.io/badge/-Telegram%20Bot-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jeff555max&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
