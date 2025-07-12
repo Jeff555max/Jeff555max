@@ -72,7 +72,7 @@ https://github.com/Jeff555max/Jeff555max/blob/main/README.md
 
 | Проект         | Описание                    |
 | -------------- | -------------------------- |
-| FlowerDelivery | Доставка цветов на Django   |
+| FlowerDelivery | Интернет магазин цветов с интеграцией Телеграм-бота   |
 | Mail_Service-TG_Notifications   | Мини-сервис рассылки email и Telegram-уведомлений    |
 
 
