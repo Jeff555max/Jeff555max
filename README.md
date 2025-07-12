@@ -3,7 +3,6 @@
   <summary>Подробнее обо мне</summary>
   Python-разработчик с практическим опытом разработки на Django/Flask/FastAPI, полученным в результате интенсивного обучения в онлайн-университете Зерокодинга . Успешно реализовал ряд учебных проектов, включая веб-приложения и Telegram-ботов (например: FlowerDelivery Интернет-Магазин по доставке цветов с использованием фреймворка Django и интеграцией Telegram-бота на Aiogram)
 </details>
-☎️
 [![Freelance.ru](https://img.shields.io/badge/Freelance.ru-1a202c?style=for-the-badge&logo=freelancer&logoColor=white)](https://freelance.ru/jjjefff)
 [![Zerocoder University](https://img.shields.io/badge/Zerocoder%20University-1e88e5?style=for-the-badge&logo=graduation-cap&logoColor=white)](https://university.zerocoder.ru/pl/368859683)
 
