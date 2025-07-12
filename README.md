@@ -64,8 +64,11 @@ https://github.com/Jeff555max/Jeff555max/blob/main/README.md
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jeff555max&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="200"/>
+<details>
+  <summary>Подробнее обо мне</summary>
+  Текст, который будет скрыт, пока не нажмёшь.
+</details>
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 
 
