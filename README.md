@@ -1,7 +1,7 @@
 ## Привет! Меня зовут Евгений! ✨ [![Freelance.ru](https://img.icons8.com/color/48/000000/star--v1.png)](https://freelance.ru/jjjefff) 
 <details>
   <summary>Подробнее обо мне</summary>
-  Текст, который будет скрыт, пока не нажмёшь.
+  Python-разработчик с практическим опытом разработки на Django/Flask, полученным в результате интенсивного обучения в онлайн-университете Зерокодинга . Успешно реализовал ряд учебных проектов, доступных в открытом доступе на GitHub, включая веб-приложения и Telegram-ботов (например: FlowerDelivery Интернет-Магазин по доставке цветов с использованием фреймворка Django и интеграцией Telegram-бота на Aiogram)
 </details>
 
 [![Freelance.ru](https://img.shields.io/badge/Freelance.ru-1a202c?style=for-the-badge&logo=freelancer&logoColor=white)](https://freelance.ru/jjjefff)
