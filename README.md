@@ -7,14 +7,13 @@
 [![WhatsApp](https://img.icons8.com/color/48/000000/whatsapp--v1.png)](https://wa.me/79222667354)
 [![Zerocoder University](https://img.icons8.com/color/48/000000/graduation-cap.png)](https://university.zerocoder.ru/pl/368859683)
 [![Freelance.ru](https://img.icons8.com/color/48/000000/laptop--v1.png)](https://freelance.ru/jjjefff)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jeff555max&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
-
 
 
 ## Hi there, I'm Evgeniy! 👋                                                                                                                                                                                                                                                                                       
 ![Backend](https://img.shields.io/badge/Backend-000000?style=for-the-badge&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jeff555max&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Frontend](https://img.shields.io/badge/Frontend-7952B3?style=for-the-badge&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
