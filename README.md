@@ -1,4 +1,4 @@
-## Привет! Меня зовут Евгений! ✨ [![Freelance.ru](https://img.icons8.com/color/48/000000/star--v1.png)](https://fs.getcourse.ru/fileservice/file/download/a/256825/sc/164/h/c2f74b9d4e987c41d7724adb94178a72.png?gcmes=74824180329) (http://fs.getcourse.ru/fileservice/file/download/a/256825/sc/185/h/6be79368cc1741a186e4eba2403aa3c6.png) 
+## Привет! Меня зовут Евгений! ✨ [![Freelance.ru](https://img.icons8.com/color/48/000000/star--v1.png)](https://fs.getcourse.ru/fileservice/file/download/a/256825/sc/164/h/c2f74b9d4e987c41d7724adb94178a72.png?gcmes=74824180329)  [![Freelance.ru](https://img.icons8.com/color/48/000000/star--v1.png)](http://fs.getcourse.ru/fileservice/file/download/a/256825/sc/185/h/6be79368cc1741a186e4eba2403aa3c6.png)
 
 <details>
   <summary>Подробнее обо мне</summary>
