@@ -15,7 +15,7 @@
 [![Freelance.ru](https://img.icons8.com/color/48/000000/laptop--v1.png)](https://freelance.ru/jjjefff)
 
 
-## Hi there, I'm Evgeniy! 👋 ✨  [![Freelance.ru](https://img.icons8.com/color/48/000000/star--v1.png)](http://fs.getcourse.ru/fileservice/file/download/a/256825/sc/131/h/d820cea44e30ad09186fb90d1c405094.png)    
+## Hi there, I'm Evgeniy! 👋 ✨  [![Freelance.ru](https://img.icons8.com/color/48/000000/star--v1.png)](https://fs.getcourse.ru/fileservice/file/download/a/256825/sc/189/h/784308e1eb2bea110ff358690bf6a4c5.png)    
 
 
                                                                                                                                                                                                                                                                                     
