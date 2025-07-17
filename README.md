@@ -83,7 +83,7 @@ https://github.com/Jeff555max/Jeff555max/blob/main/README.md
 <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="200"/>
 
 ## 💻 Мои проекты (My Projects)
-| Проект         | Описание                    |
+| Проект(Project)| Описание (Description)     |
 | -------------- | -------------------------- |
 | FlowerDelivery | Интернет магазин цветов с интеграцией Телеграм-бота   |
 | Mail_Service-TG_Notifications   | Мини-сервис рассылки email и Telegram-уведомлений    |
