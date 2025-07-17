@@ -16,7 +16,8 @@
 [![Python](https://img.icons8.com/color/48/000000/python--v1.png)](https://disk.yandex.ru/d/ncdmGp190QLnaA)
 
 
-## Hi there, I'm Evgeniy! 👋  [![Freelance.ru](https://img.icons8.com/color/48/000000/star--v1.png)](https://fs.getcourse.ru/fileservice/file/download/a/256825/sc/189/h/784308e1eb2bea110ff358690bf6a4c5.png) [![Freelance.ru](https://img.icons8.com/color/48/000000/star--v1.png)](http://fs.getcourse.ru/fileservice/file/download/a/256825/sc/67/h/bba6b5195341ec1e8c72059d85464999.png) [![Freelance.ru](https://img.icons8.com/color/48/000000/star--v1.png)](http://fs.getcourse.ru/fileservice/file/download/a/256825/sc/141/h/0896e26a87a01df83220f9612ba72aed.png) Click on the stars
+## Hi there, I'm Evgeniy! 👋  [![Freelance.ru](https://img.icons8.com/color/48/000000/star--v1.png)](https://fs.getcourse.ru/fileservice/file/download/a/256825/sc/189/h/784308e1eb2bea110ff358690bf6a4c5.png) [![Freelance.ru](https://img.icons8.com/color/48/000000/star--v1.png)](http://fs.getcourse.ru/fileservice/file/download/a/256825/sc/67/h/bba6b5195341ec1e8c72059d85464999.png) [![Freelance.ru](https://img.icons8.com/color/48/000000/star--v1.png)](http://fs.getcourse.ru/fileservice/file/download/a/256825/sc/141/h/0896e26a87a01df83220f9612ba72aed.png) Click on the stars [![Python Alt](https://img.icons8.com/fluency/48/000000/python.png)](https://drive.google.com/drive/folders/1JOKtqLaB34bovXD2MUCmlHKUm8FGIPhF?clckid=47e80e71)
+
  
  
                                                                                                                                                                                                                                                                                     
