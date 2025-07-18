@@ -93,7 +93,6 @@ https://github.com/Jeff555max/Jeff555max/blob/main/README.md
 | FlowerDelivery | Интернет магазин цветов с интеграцией Телеграм-бота|
 | Mail_Service-TG_Notifications   | Мини-сервис рассылки email и Telegram-уведомлений    |
 [![Button](https://img.shields.io/badge/-Нажми%20меня-success?style=for-the-badge)](https://freelance.ru/portfolio/user/jjjefff)
-[https://www.w3schools.com/css/
-](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg)
+
 
 
