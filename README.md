@@ -1,5 +1,5 @@
-## Привет! Меня зовут Евгений! 👋 [![Freelance.ru](https://img.icons8.com/color/48/000000/star--v1.png)](https://fs.getcourse.ru/fileservice/file/download/a/256825/sc/164/h/c2f74b9d4e987c41d7724adb94178a72.png?gcmes=74824180329)  [![Freelance.ru](https://img.icons8.com/color/48/000000/star--v1.png)](http://fs.getcourse.ru/fileservice/file/download/a/256825/sc/185/h/6be79368cc1741a186e4eba2403aa3c6.png) [![Freelance.ru](https://img.icons8.com/color/48/000000/star--v1.png)](http://fs.getcourse.ru/fileservice/file/download/a/256825/sc/193/h/0472a4fb9949377cc3508e4bdd0ad08a.png) Жми на звезды **Profile views:**  
-![](https://komarev.com/ghpvc/?username=Jeff555max&color=blue&style=flat)
+## Привет! Меня зовут Евгений! 👋 [![Freelance.ru](https://img.icons8.com/color/48/000000/star--v1.png)](https://fs.getcourse.ru/fileservice/file/download/a/256825/sc/164/h/c2f74b9d4e987c41d7724adb94178a72.png?gcmes=74824180329)  [![Freelance.ru](https://img.icons8.com/color/48/000000/star--v1.png)](http://fs.getcourse.ru/fileservice/file/download/a/256825/sc/185/h/6be79368cc1741a186e4eba2403aa3c6.png) [![Freelance.ru](https://img.icons8.com/color/48/000000/star--v1.png)](http://fs.getcourse.ru/fileservice/file/download/a/256825/sc/193/h/0472a4fb9949377cc3508e4bdd0ad08a.png) Жми на звезды ![](https://komarev.com/ghpvc/?username=Jeff555max&color=brightgreen&style=flat-square)
+![](https://komarev.com/ghpvc/?username=Jeff555max&color=blueviolet&style=plastic)
 
 
 <details>
