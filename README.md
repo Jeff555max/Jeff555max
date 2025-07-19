@@ -3,7 +3,7 @@
 
 <details>
   <summary>Подробнее обо мне</summary>
-  Python-разработчик с практическим опытом разработки на Django/Flask/FastAPI, полученным в результате интенсивного обучения в онлайн-университете Зерокодинга . Успешно реализовал ряд учебных проектов, включая веб-приложения и Telegram-ботов (например: FlowerDelivery Интернет-Магазин по доставке цветов с использованием фреймворка Django и интеграцией Telegram-бота на Aiogram)
+  Python-разработчик с практическим опытом разработки на Django/Flask/FastAPI, полученным в результате интенсивного обучения в онлайн-университете Зерокодинга . Успешно реализовал ряд проектов, включая веб-приложения и Telegram-ботов (например: FlowerDelivery Интернет-Магазин по доставке цветов с использованием фреймворка Django и интеграцией Telegram-бота на Aiogram)
 </details>
 
 [![Freelance.ru](https://img.shields.io/badge/Freelance.ru-1a202c?style=for-the-badge&logo=freelancer&logoColor=white)](https://freelance.ru/jjjefff)
@@ -20,7 +20,7 @@
 ## Hi there, I'm Evgeniy! 👋  [![Freelance.ru](https://img.icons8.com/color/48/000000/star--v1.png)](https://fs.getcourse.ru/fileservice/file/download/a/256825/sc/189/h/784308e1eb2bea110ff358690bf6a4c5.png) [![Freelance.ru](https://img.icons8.com/color/48/000000/star--v1.png)](http://fs.getcourse.ru/fileservice/file/download/a/256825/sc/67/h/bba6b5195341ec1e8c72059d85464999.png) [![Freelance.ru](https://img.icons8.com/color/48/000000/star--v1.png)](http://fs.getcourse.ru/fileservice/file/download/a/256825/sc/141/h/0896e26a87a01df83220f9612ba72aed.png) Click on the stars  [![Python 3D](https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-python-an-interpreted-high-level-general-purpose-programming-language-logo-shadow-tal-revivo.png)](https://drive.google.com/drive/folders/1JOKtqLaB34bovXD2MUCmlHKUm8FGIPhF?clckid=47e80e71)
 <details>
   <summary>More about me</summary>
- Python developer with hands-on experience in Django, Flask, and FastAPI, gained through intensive training at the Zerocoder online university. Successfully implemented a number of educational projects, including web applications and Telegram bots (for example: FlowerDelivery — an online flower delivery store using the Django framework and integrated with a Telegram bot based on Aiogram).
+ Python developer with hands-on experience in Django, Flask, and FastAPI, gained through intensive training at the Zerocoder online university. Successfully implemented a number of projects, including web applications and Telegram bots (for example: FlowerDelivery — an online flower delivery store using the Django framework and integrated with a Telegram bot based on Aiogram).
 </details>
 
                                                                                                                                                                                                                                                                                     
