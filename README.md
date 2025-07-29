@@ -75,6 +75,7 @@ https://github.com/Jeff555max/Jeff555max/blob/main/README.md
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557c?style=for-the-badge&logo=matplotlib&logoColor=white)
 ![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![Scrapy](https://img.shields.io/badge/-Scrapy-14A13C?style=for-the-badge&logo=scrapy&logoColor=white)
+![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-4B0082?style=for-the-badge&logo=python&logoColor=white)
 ![Aiogram](https://img.shields.io/badge/-Aiogram-2F253A?style=for-the-badge&logo=python&logoColor=white)
 ![Telegram Bot](https://img.shields.io/badge/-Telegram%20Bot-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white)
