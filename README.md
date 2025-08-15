@@ -8,7 +8,7 @@
 
 [![Freelance.ru](https://img.shields.io/badge/Freelance.ru-1a202c?style=for-the-badge&logo=freelancer&logoColor=white)](https://freelance.ru/jjjefff)
 [![Zerocoder University](https://img.shields.io/badge/Zerocoder%20University-1e88e5?style=for-the-badge&logo=graduation-cap&logoColor=white)](https://university.zerocoder.ru/pl/368859683)
-[![Сертификаты Минцифры](https://img.shields.io/badge/Сертификаты_Минцифры-FFA726?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/drive/folders/171MW5hscyMEFLoIAhbNlrw8kqCFb-DA6?usp=sharing)
+[![Сертификаты Минцифры](https://img.shields.io/badge/Сертификаты_Минцифры-FFA726?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/drive/folders/171MW5hscyMEFLoIAhbNlrw8kqCFb-DA6?usp=sharing) 👈Жми
 
 [![Telegram](https://img.icons8.com/color/48/000000/telegram-app--v1.png)](https://t.me/JJJeFFF5)
 [![VK](https://img.icons8.com/color/48/000000/vk-circled.png)](https://vk.com/id10216908)
