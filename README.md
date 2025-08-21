@@ -15,7 +15,7 @@
 [![WhatsApp](https://img.icons8.com/color/48/000000/whatsapp--v1.png)](https://wa.me/79222667354)
 [![Zerocoder University](https://img.icons8.com/color/48/000000/graduation-cap.png)](https://university.zerocoder.ru/pl/368859683)
 [![Freelance.ru](https://img.icons8.com/color/48/000000/laptop--v1.png)](https://freelance.ru/jjjefff)
-[![Python](https://img.icons8.com/color/48/000000/python--v1.png)](https://disk.yandex.ru/d/ncdmGp190QLnaA)
+[![Python](https://img.icons8.com/color/48/000000/python--v1.png)](https://disk.yandex.ru/d/7AmBvHnFuKJH8Q)
 
 
 ## Hi there, I'm Evgeniy! 👋  [![Freelance.ru](https://img.icons8.com/color/48/000000/star--v1.png)](https://fs.getcourse.ru/fileservice/file/download/a/256825/sc/189/h/784308e1eb2bea110ff358690bf6a4c5.png) [![Freelance.ru](https://img.icons8.com/color/48/000000/star--v1.png)](http://fs.getcourse.ru/fileservice/file/download/a/256825/sc/67/h/bba6b5195341ec1e8c72059d85464999.png) [![Freelance.ru](https://img.icons8.com/color/48/000000/star--v1.png)](http://fs.getcourse.ru/fileservice/file/download/a/256825/sc/141/h/0896e26a87a01df83220f9612ba72aed.png)  [![Freelance.ru](https://img.icons8.com/color/48/000000/star--v1.png)](http://fs.getcourse.ru/fileservice/file/download/a/256825/sc/195/h/7604bf3b4979b873fcccb5600b64d0f2.png) Click on the stars  [![Python 3D](https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-python-an-interpreted-high-level-general-purpose-programming-language-logo-shadow-tal-revivo.png)](https://drive.google.com/drive/folders/1JOKtqLaB34bovXD2MUCmlHKUm8FGIPhF?clckid=47e80e71)
