@@ -108,4 +108,4 @@ https://github.com/Jeff555max/Jeff555max/blob/main/README.md
   </tr>
   
 </table>
-&show_owner=true
+
