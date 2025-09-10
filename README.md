@@ -102,7 +102,7 @@ https://github.com/Jeff555max/Jeff555max/blob/main/README.md
     </td>
     <td>
       <a href="https://github.com/Jeff555max/API_quote">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jeff555max&repo=APLquote&show_owner=true&bg_color=00001a&title_color=b0e0e6&text_color=f0f8ff&icon_color=87ceeb&border_color=333366&cache_bust=20250910" alt="APLquote">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jeff555max&repo=API_quote&show_owner=true&bg_color=00001a&title_color=b0e0e6&text_color=f0f8ff&icon_color=87ceeb&border_color=333366&cache_bust=20250910" alt="API_quote">
       </a>
     </td>
   </tr>
