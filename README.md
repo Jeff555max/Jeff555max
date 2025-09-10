@@ -91,7 +91,7 @@ https://github.com/Jeff555max/Jeff555max/blob/main/README.md
 | -------------- | -------------------------- |
 | FlowerDelivery | Интернет магазин цветов с интеграцией Телеграм-бота|
 | Mail_Service-TG_Notifications   | Мини-сервис рассылки email и Telegram-уведомлений    |
-|[![Button](https://img.shields.io/badge/-Нажми%20меня-success?style=for-the-badge)](https://freelance.ru/portfolio/user/jjjefff) | Переход на https://freelance.ru/portfolio/user/jjjefff|
+|[![Button](https://img.shields.io/badge/-Нажми%20меня-success?style=for-the-badge)](https://freelance.ru/portfolio/user/jjjefff) | Переход на мою личную страницу с портфолио|
 
 <table>
   <tr>
