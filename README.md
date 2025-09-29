@@ -100,6 +100,11 @@ https://github.com/Jeff555max/Jeff555max/blob/main/README.md
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jeff555max&repo=BeautifulSoupParser&bg_color=00001a&title_color=b0e0e6&text_color=f0f8ff&icon_color=87ceeb&border_color=333366&cache_bust=20250911" alt="BeautifulSoupParser">
       </a>
     </td>
+    <td>
+      <a href="https://github.com/Jeff555max/BeautifulSoupParser">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jeff555max&repo=BeautifulSoupParser&bg_color=00001a&title_color=b0e0e6&text_color=f0f8ff&icon_color=87ceeb&border_color=333366&cache_bust=20250911" alt="BeautifulSoupParser">
+      </a>
+    </td>
   <tr>
     <td>
       <a href="https://github.com/Jeff555max/BeautifulSoupParser">
