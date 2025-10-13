@@ -5,7 +5,7 @@
   <summary>Подробнее обо мне</summary>
   Python-разработчик с практическим опытом разработки на Django/Flask/FastAPI. Успешно реализовал ряд проектов, включая веб-приложения и Telegram-ботов (например: FlowerDelivery Интернет-Магазин по доставке цветов с использованием фреймворка Django и интеграцией Telegram-бота на Aiogram)
 
-  Промпт-инженер. Я не волшебник,я только учусь!😊
+  Промпт-инженер. Я не волшебник, я только учусь!😊
 </details>
 
 [![Freelance.ru](https://img.shields.io/badge/Freelance.ru-1a202c?style=for-the-badge&logo=freelancer&logoColor=white)](https://freelance.ru/jjjefff)
