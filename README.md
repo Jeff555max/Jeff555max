@@ -87,8 +87,10 @@ https://github.com/Jeff555max/Jeff555max/blob/main/README.md
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white)
 [![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)](https://www.jetbrains.com/pycharm/)
 [![DBeaver](https://img.shields.io/badge/DBeaver-372923?style=for-the-badge&logo=dbeaver&logoColor=white)](https://dbeaver.io/)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jeff555max&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 ![LangChain](https://img.shields.io/badge/LangChain-FF7700?style=for-the-badge&logoColor=white)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jeff555max&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="200"/>
