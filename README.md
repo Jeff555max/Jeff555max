@@ -39,7 +39,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-![LLM Backend](https://img.shields.io/badge/LLM_Backend-FF7700?style=for-the-badge&logoColor=white) ![LLM Backend](https://img.shields.io/badge/LLM_Backend-FF4500?style=for-the-badge&logoColor=white) ![LLM Backend](https://img.shields.io/badge/LLM_Backend-E34234?style=for-the-badge&logoColor=white) ![LLM Backend](https://img.shields.io/badge/LLM_Backend-FF5A5F?style=for-the-badge&logoColor=white)
+![LLM Backend](https://img.shields.io/badge/LLM_Backend-FF7700?style=for-the-badge&logoColor=white) ![LLM Prompt Engineering](https://img.shields.io/badge/LLM_Backend-FF4500?style=for-the-badge&logoColor=white) 
 <!--
 **Jeff555max/Jeff555max** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
