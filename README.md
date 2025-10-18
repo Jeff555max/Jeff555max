@@ -25,7 +25,7 @@
   <summary>More about me</summary>
  Python developer with hands-on experience in Django, Flask, and FastAPI. Successfully implemented a number of projects, including web applications and Telegram bots (for example: FlowerDelivery — an online flower delivery store using the Django framework and integrated with a Telegram bot based on Aiogram).
 
-  I'm a Prompt Engineer
+Prompt Engineer
 </details>
 
                                                                                                                                                                                                                                                                                     
