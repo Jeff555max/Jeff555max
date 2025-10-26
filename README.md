@@ -40,20 +40,6 @@ Prompt Engineer
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ![LLM Backend](https://img.shields.io/badge/LLM_Backend-FF7700?style=for-the-badge&logoColor=white) ![LLM Prompt Engineering](https://img.shields.io/badge/LLM_Prompt_Engineering-FF4500?style=for-the-badge&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-FF7700?style=for-the-badge&logoColor=white) ![FAISS](https://img.shields.io/badge/FAISS-E34234?style=for-the-badge&logoColor=white) ![RAG](https://img.shields.io/badge/RAG-FF5A5F?style=for-the-badge&logoColor=white) ![embedding](https://img.shields.io/badge/embedding-FFC107?style=for-the-badge&logoColor=black)
-<!--
-**Jeff555max/Jeff555max** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-https://github.com/Jeff555max/Jeff555max/blob/main/README.md
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 ## 🛠 Tech Stack:
 
@@ -116,7 +102,7 @@ https://github.com/Jeff555max/Jeff555max/blob/main/README.md
   <tr>
     <td>
       <a href="https://github.com/Jeff555max/AI-Product-Cards">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jeff555max&repo=AI-Product-Cards&bg_color=00001a&title_color=b0e0e6&text_color=f0f8ff&icon_color=87ceeb&border_color=333366&cache_bust=24250911" alt="AI-Product-Cards">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jeff555max&repo=AI-Product-Cards&bg_color=00001a&title_color=b0e0e6&text_color=f0f8ff&icon_color=87ceeb&border_color=333366&cache_bust=20251026" alt="AI-Product-Cards">
       </a>
     </td>
     <td>
