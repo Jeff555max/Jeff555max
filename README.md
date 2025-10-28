@@ -87,6 +87,18 @@ Prompt Engineer
 |[![Button](https://img.shields.io/badge/-Нажми%20меня-success?style=for-the-badge)](https://freelance.ru/portfolio/user/jjjefff) | Переход на мою личную страницу с портфолио|
 
 <table>
+   <tr>
+    <td>
+      <a href="https://github.com/Jeff555max/FlowerDelivery">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jeff555max&repo=FlowerDelivery&bg_color=00001a&title_color=b0e0e6&text_color=f0f8ff&icon_color=87ceeb&border_color=333366&cache_bust=20251013" alt="FlowerDelivery">
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/Jeff555max/AI_Assistant_AutoCAD">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jeff555max&repo=AI_Assistant_AutoCAD&bg_color=00001a&title_color=b0e0e6&text_color=f0f8ff&icon_color=87ceeb&border_color=333366&cache_bust=20251026" alt="AI Assistant AutoCAD">
+      </a>
+    </td>
+  </tr>
   <tr>
     <td>
       <a href="https://github.com/Jeff555max/FlowerDelivery">
