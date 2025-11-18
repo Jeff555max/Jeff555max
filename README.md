@@ -33,7 +33,7 @@ Prompt Engineer. Data Engineer
 ![Backend](https://img.shields.io/badge/Backend-000000?style=for-the-badge&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge)
-![n8n](https://img.shields.io/badge/n8n-FF6B6B?style=for-the-badge&logo=n8n&logoColor=white)
+
 
 ![Frontend](https://img.shields.io/badge/Frontend-7952B3?style=for-the-badge&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -41,7 +41,7 @@ Prompt Engineer. Data Engineer
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-![LLM Backend](https://img.shields.io/badge/LLM_Backend-FF7700?style=for-the-badge&logoColor=white) ![LLM Prompt Engineering](https://img.shields.io/badge/LLM_Prompt_Engineering-FF4500?style=for-the-badge&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-FF7700?style=for-the-badge&logoColor=white) ![FAISS](https://img.shields.io/badge/FAISS-E34234?style=for-the-badge&logoColor=white) ![RAG](https://img.shields.io/badge/RAG-FF5A5F?style=for-the-badge&logoColor=white) ![embedding](https://img.shields.io/badge/embedding-FFC107?style=for-the-badge&logoColor=black)
+![LLM Backend](https://img.shields.io/badge/LLM_Backend-FF7700?style=for-the-badge&logoColor=white) ![LLM Prompt Engineering](https://img.shields.io/badge/LLM_Prompt_Engineering-FF4500?style=for-the-badge&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-FF7700?style=for-the-badge&logoColor=white) ![FAISS](https://img.shields.io/badge/FAISS-E34234?style=for-the-badge&logoColor=white) ![RAG](https://img.shields.io/badge/RAG-FF5A5F?style=for-the-badge&logoColor=white) ![embedding](https://img.shields.io/badge/embedding-FFC107?style=for-the-badge&logoColor=black)![n8n](https://img.shields.io/badge/n8n-FF6B6B?style=for-the-badge&logo=n8n&logoColor=white)
 
 ## 🛠 Tech Stack:
 
