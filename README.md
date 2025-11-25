@@ -98,10 +98,10 @@ Prompt Engineer. Data Engineer
       </a>
     </td>
     <td>
-      <a href="https://github.com/Jeff555max/Form-data-extractor">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jeff555max&repo=Form-data-extractor&bg_color=00001a&title_color=b0e0e6&text_color=f0f8ff&icon_color=87ceeb&border_color=333366&cache_bust=20251026" alt="Form-data-extractor">
-      </a>
-    </td>
+    <a href="https://github.com/Jeff555max/Form-Data-Extractor">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jeff555max&repo=Form-Data-Extractor&bg_color=00001a&title_color=b0e0e6&text_color=f0f8ff&icon_color=87ceeb&border_color=333366&cache_seconds=86400" alt="Form-Data-Extractor">
+    </a>
+  </td>
 </tr>
 
   <tr>
