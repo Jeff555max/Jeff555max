@@ -42,7 +42,7 @@ Prompt Engineer. Data Engineer
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ![LLM Backend](https://img.shields.io/badge/LLM_Backend-FF7700?style=for-the-badge&logoColor=white) ![LLM Prompt Engineering](https://img.shields.io/badge/LLM_Prompt_Engineering-FF4500?style=for-the-badge&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-FF7700?style=for-the-badge&logoColor=white) ![FAISS](https://img.shields.io/badge/FAISS-E34234?style=for-the-badge&logoColor=white) ![RAG](https://img.shields.io/badge/RAG-FF5A5F?style=for-the-badge&logoColor=white) ![embedding](https://img.shields.io/badge/embedding-FFC107?style=for-the-badge&logoColor=black) ![TTS](https://img.shields.io/badge/TTS-8B5CF6?style=for-the-badge&logo=sonos&logoColor=white) ![STT](https://img.shields.io/badge/STT-14B8A6?style=for-the-badge&logoColor=white) ![Text-to-Video](https://img.shields.io/badge/Text--to--Video-FF0000?style=for-the-badge&logo=youtube&logoColor=white) ![TTV](https://img.shields.io/badge/TTV-FF0000?style=for-the-badge&logoColor=white)
-![IMG GEN](https://img.shields.io/badge/IMG_GEN-8B5CF6?style=for-the-badge&logoColor=white) ![n8n](https://img.shields.io/badge/n8n-FF6B6B?style=for-the-badge&logo=n8n&logoColor=white)
+![IMG GEN](https://img.shields.io/badge/IMG_GEN-8B5CF6?style=for-the-badge&logoColor=white) ![Image Generation](https://img.shields.io/badge/Image_Generation-8B5CF6?style=for-the-badge&logo=imgur&logoColor=white) ![n8n](https://img.shields.io/badge/n8n-FF6B6B?style=for-the-badge&logo=n8n&logoColor=white)
 
 ## 🛠 Tech Stack:
 
