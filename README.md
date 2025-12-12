@@ -140,8 +140,8 @@ Data Engineer
       </a>
     </td>
     <td>
-       <a href="https://github.com/Jeff555max/Web-imageGen-AI">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jeff555max&repo=Web-imageGen-AI&bg_color=00001a&title_color=b0e0e6&text_color=f0f8ff&icon_color=87ceeb&border_color=333366&cache_bust=20251206" alt="Web-imageGen-AI">
+       <a href="https://github.com/Jeff555max/SpiderMatplotlib">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jeff555max&repo=SpiderMatplotlib&bg_color=00001a&title_color=b0e0e6&text_color=f0f8ff&icon_color=87ceeb&border_color=333366&cache_bust=20251206" alt="SpiderMatplotlib">
     </td>
   </tr>
 
