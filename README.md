@@ -27,7 +27,9 @@ AI Prompt-инженер. Разработка мультимодальных с
   <summary>More about me</summary>
  Python developer with hands-on experience in Django/Flask/FastAPI/LangChain. Successfully implemented a number of projects, including web applications and Telegram bots (for example: FlowerDelivery — an online flower delivery store using the Django framework and integrated with a Telegram bot based on Aiogram).
 
-Prompt Engineer. Data Engineer
+Prompt Engineer. Development of multimodal systems and AI-powered intelligent assistants
+
+Data Engineer
 </details>
 
                                                                                                                                                                                                                                                                                     
