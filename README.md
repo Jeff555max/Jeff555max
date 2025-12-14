@@ -84,6 +84,7 @@ Data Engineer
 ![Node.js](https://img.shields.io/badge/Node.js-215732?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-FF6B6B?style=for-the-badge&logo=n8n&logoColor=white)
 ![Chroma DB](https://img.shields.io/badge/Chroma_DB-FF6B35?style=for-the-badge&logo=databricks&logoColor=white)
+![Whisper](https://img.shields.io/badge/Whisper-10A37F?style=for-the-badge&logo=openai&logoColor=white)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jeff555max&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="200"/>
