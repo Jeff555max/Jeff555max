@@ -118,8 +118,8 @@ Data Engineer
       </a>
     </td>
     <td>
-    <a href="https://github.com/Jeff555max/SeleniumParserDivan_Light">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jeff555max&repo=SeleniumParserDivan_Light&bg_color=00001a&title_color=b0e0e6&text_color=f0f8ff&icon_color=87ceeb&border_color=333366&cache_bust=20251201" alt="SeleniumParserDivan_Light">
+    <a href="https://github.com/Jeff555max/AI-Tool-RAG-Weaviate-Pinecone">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jeff555max&repo=AI-Tool-RAG-Weaviate-Pinecone&bg_color=00001a&title_color=b0e0e6&text_color=f0f8ff&icon_color=87ceeb&border_color=333366&cache_bust=20251201" alt="AI-Tool-RAG-Weaviate-Pinecone">
     </a>
   </td>
 </tr>
@@ -204,8 +204,8 @@ Data Engineer
       </a>
     </td>
     <td>
-      <a href="https://github.com/Jeff555max/API_quote">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jeff555max&repo=API_quote&bg_color=00001a&title_color=b0e0e6&text_color=f0f8ff&icon_color=87ceeb&border_color=333366&cache_bust=20250912" alt="API Quote">
+      <a href="https://github.com/Jeff555max/SeleniumParserDivan_Light">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jeff555max&repo=SeleniumParserDivan_Light&bg_color=00001a&title_color=b0e0e6&text_color=f0f8ff&icon_color=87ceeb&border_color=333366&cache_bust=20250912" alt="SeleniumParserDivan_Light">
       </a>
     </td>
   </tr>
