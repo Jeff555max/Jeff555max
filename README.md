@@ -36,6 +36,8 @@ Data Engineer
 ![Backend](https://img.shields.io/badge/Backend-000000?style=for-the-badge&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098-8B5CF6?style=for-the-badge&logo=graphql&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=apollographql&logoColor=white)
 
 
 ![Frontend](https://img.shields.io/badge/Frontend-7952B3?style=for-the-badge&logoColor=white)
