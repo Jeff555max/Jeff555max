@@ -222,4 +222,17 @@ Data Engineer
       </a>
     </td>
   </tr>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/Jeff555max/Mail_Service-TG_Notifications">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jeff555max&repo=Mail_Service-TG_Notifications&bg_color=00001a&title_color=b0e0e6&text_color=f0f8ff&icon_color=87ceeb&border_color=333366&cache_bust=20250912" alt="Mail_Service-TG_Notifications">
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/Jeff555max/SeleniumParserDivan_Light">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jeff555max&repo=SeleniumParserDivan_Light&bg_color=00001a&title_color=b0e0e6&text_color=f0f8ff&icon_color=87ceeb&border_color=333366&cache_bust=20250912" alt="SeleniumParserDivan_Light">
+      </a>
+    </td>
+  </tr>
 </table>
