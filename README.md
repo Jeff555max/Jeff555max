@@ -226,12 +226,12 @@ Data Engineer
   <tr>
     <td>
       <a href="https://github.com/Jeff555max/RAG-Assistant">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jeff555max&repo=RAG-Assistant&bg_color=00001a&title_color=b0e0e6&text_color=f0f8ff&icon_color=87ceeb&border_color=333366&cache_bust=20251225" alt="RAG-Assistant">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jeff555max&repo=RAG-Assistant&bg_color=00001a&title_color=b0e0e6&text_color=f0f8ff&icon_color=87ceeb&border_color=333366&cache_bust=20251227" alt="RAG-Assistant">
       </a>
     </td>
     <td>
-      <a href="https://github.com/Jeff555max/RAG-Assistant">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jeff555max&repo=RAG-Assistant&bg_color=00001a&title_color=b0e0e6&text_color=f0f8ff&icon_color=87ceeb&border_color=333366&cache_bust=20251225" alt="RAG-Assistant">
+      <a href="https://github.com/Jeff555max/AI-Assistant-RAG-Cache">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jeff555max&repo=AI-Assistant-RAG-Cache&bg_color=00001a&title_color=b0e0e6&text_color=f0f8ff&icon_color=87ceeb&border_color=333366&cache_bust=20251227" alt="AI-Assistant-RAG-Cache">
       </a>
     </td>
   </tr>
