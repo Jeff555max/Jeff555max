@@ -251,12 +251,12 @@ Data Engineer
    <tr>
     <td>
       <a href="https://github.com/Jeff555max/FAQ-Assistant-RAG-FAISS">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jeff555max&repo=FAQ-Assistant-RAG-FAISS&bg_color=00001a&title_color=b0e0e6&text_color=f0f8ff&icon_color=87ceeb&border_color=333366&cache_bust=20260319" alt="FAQ-Assistant-RAG-FAISS">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jeff555max&repo=FAQ-Assistant-RAG-FAISS&bg_color=00001a&title_color=b0e0e6&text_color=f0f8ff&icon_color=87ceeb&border_color=333366&cache_bust=20260318" alt="FAQ-Assistant-RAG-FAISS">
       </a>
     </td>
     <td>
       <a href="https://github.com/Jeff555max/FAQ-Assistant-RAG-FAISS">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jeff555max&repo=FAQ-Assistant-RAG-FAISS&bg_color=00001a&title_color=b0e0e6&text_color=f0f8ff&icon_color=87ceeb&border_color=333366&cache_bust=20260319" alt="FAQ-Assistant-RAG-FAISS">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jeff555max&repo=FAQ-Assistant-RAG-FAISS&bg_color=00001a&title_color=b0e0e6&text_color=f0f8ff&icon_color=87ceeb&border_color=333366&cache_bust=20260318" alt="FAQ-Assistant-RAG-FAISS">
       </a>
     </td>
   </tr>
