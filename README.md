@@ -2,7 +2,7 @@
 ![](https://komarev.com/ghpvc/?username=Jeff555max&color=brightgreen&style=flat)
 
 <details>
-  <summary>Подробнее обо мне</summary>
+  <summary>Подробнее о мне</summary>
   Python-разработчик с практическим опытом разработки на Django/Flask/FastAPI/LangChain. Успешно реализовал ряд проектов, включая веб-приложения и Telegram-ботов (например: FlowerDelivery Интернет-Магазин по доставке цветов с использованием фреймворка Django и интеграцией Telegram-бота на Aiogram)
   
 AI Prompt & RAG -инженер. Разработка мультимодальных систем и интеллектуальных помощников с искусственным интеллектом, GUI-приложений с RAG (Retrieval-Augmented Generation) архитектурой и векторными базами данных Weaviate, Pinecone, FAISS, ChromaDB, Qdrant и другими
