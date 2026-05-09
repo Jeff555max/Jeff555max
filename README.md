@@ -103,12 +103,12 @@ Data Engineer
   <tr>
     <td>
       <a href="https://github.com/Jeff555max/AI_Data_Assistant">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jeff555max&repo=AI_Data_Assistant&bg_color=00001a&title_color=b0e0e6&text_color=f0f8ff&icon_color=87ceeb&border_color=333366&cache_bust=20260106" alt="AI_Data_Assistant">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jeff555max&repo=AI_Data_Assistant&bg_color=00001a&title_color=b0e0e6&text_color=f0f8ff&icon_color=87ceeb&border_color=333366&cache_bust=20260509" alt="AI_Data_Assistant">
       </a>
     </td>
     <td>
     <a href="https://github.com/Jeff555max/AI_Data_Assistant">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jeff555max&repo=AI_Data_Assistant&bg_color=00001a&title_color=b0e0e6&text_color=f0f8ff&icon_color=87ceeb&border_color=333366&cache_bust=20260317" alt="AI_Data_Assistant">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jeff555max&repo=AI_Data_Assistant&bg_color=00001a&title_color=b0e0e6&text_color=f0f8ff&icon_color=87ceeb&border_color=333366&cache_bust=20260509" alt="AI_Data_Assistant">
       </a>
   </td>
 </tr>
