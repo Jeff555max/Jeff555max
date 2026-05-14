@@ -6,7 +6,7 @@
   Python-разработчик с практическим опытом разработки на Django/Flask/FastAPI/LangChain. Успешно реализовал ряд проектов, включая веб-приложения и Telegram-ботов (например: FlowerDelivery Интернет-Магазин по доставке цветов с использованием фреймворка Django и интеграцией Telegram-бота на Aiogram)
   
   
-AI/ML Prompt & RAG -инженер. Разработка мультимодальных систем и интеллектуальных помощников с искусственным интеллектом, GUI-приложений с RAG (Retrieval-Augmented Generation) архитектурой и векторными базами данных Weaviate, Pinecone, FAISS, ChromaDB, Qdrant и другими
+  AI/ML Prompt & RAG -инженер. Разработка мультимодальных систем и интеллектуальных помощников с искусственным интеллектом, GUI-приложений с RAG (Retrieval-Augmented Generation) архитектурой и векторными базами данных Weaviate, Pinecone, FAISS, ChromaDB, Qdrant и другими
   
 Аналитик данных
 </details>
@@ -28,7 +28,7 @@ AI/ML Prompt & RAG -инженер. Разработка мультимодал�
   <summary>More about me</summary>
  Python developer with hands-on experience in Django/Flask/FastAPI/LangChain. Successfully implemented a number of projects, including web applications and Telegram bots (for example: FlowerDelivery — an online flower delivery store using the Django framework and integrated with a Telegram bot based on Aiogram).
 
-AI/ML Prompt & RAG Engineer. Development of multimodal systems and intelligent AI assistants, GUI applications with RAG (Retrieval-Augmented Generation) architecture and vector databases Weaviate, Pinecone, FAISS, ChromaDB, Qdrant and others.
+  AI/ML Prompt & RAG Engineer. Development of multimodal systems and intelligent AI assistants, GUI applications with RAG (Retrieval-Augmented Generation) architecture and vector databases Weaviate, Pinecone, FAISS, ChromaDB, Qdrant and others.
 
 
 Data Engineer
