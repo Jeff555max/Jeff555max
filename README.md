@@ -3,7 +3,7 @@
 
 <details>
   <summary>Подробнее о мне</summary>
-  Python-разработчик с практическим опытом разработки на Django/Flask/FastAPI/LangChain. Успешно реализовал ряд проектов, включая веб-приложения и Telegram-ботов (например: FlowerDelivery Интернет-Магазин по доставке цветов с использованием фреймворка Django и интеграцией Telegram-бота на Aiogram).  
+  Python-разработчик с практическим опытом разработки на Django/Flask/FastAPI/LangChain. Успешно реализовал ряд проектов, включая веб-приложения и Telegram-ботов (например: FlowerDelivery Интернет-Магазин по доставке цветов с использованием фреймворка Django и интеграцией Telegram-бота на Aiogram)  
   
 AI/ML Prompt & RAG -инженер. Разработка мультимодальных систем и интеллектуальных помощников с искусственным интеллектом, GUI-приложений с RAG (Retrieval-Augmented Generation) архитектурой и векторными базами данных Weaviate, Pinecone, FAISS, ChromaDB, Qdrant и другими
   
@@ -25,7 +25,7 @@ AI/ML Prompt & RAG -инженер. Разработка мультимодал�
 ## Hi there, I'm Evgeniy! 👋  [![Freelance.ru](https://img.icons8.com/color/48/000000/star--v1.png)](https://fs.getcourse.ru/fileservice/file/download/a/256825/sc/189/h/784308e1eb2bea110ff358690bf6a4c5.png) [![Freelance.ru](https://img.icons8.com/color/48/000000/star--v1.png)](http://fs.getcourse.ru/fileservice/file/download/a/256825/sc/67/h/bba6b5195341ec1e8c72059d85464999.png) [![Freelance.ru](https://img.icons8.com/color/48/000000/star--v1.png)](http://fs.getcourse.ru/fileservice/file/download/a/256825/sc/141/h/0896e26a87a01df83220f9612ba72aed.png)  [![Freelance.ru](https://img.icons8.com/color/48/000000/star--v1.png)](http://fs.getcourse.ru/fileservice/file/download/a/256825/sc/195/h/7604bf3b4979b873fcccb5600b64d0f2.png) Click on the stars  [![Python 3D](https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-python-an-interpreted-high-level-general-purpose-programming-language-logo-shadow-tal-revivo.png)](https://drive.google.com/drive/folders/1JOKtqLaB34bovXD2MUCmlHKUm8FGIPhF?clckid=47e80e71)
 <details>
   <summary>More about me</summary>
- Python developer with hands-on experience in Django/Flask/FastAPI/LangChain. Successfully implemented a number of projects, including web applications and Telegram bots (for example: FlowerDelivery — an online flower delivery store using the Django framework and integrated with a Telegram bot based on Aiogram).
+ Python developer with hands-on experience in Django/Flask/FastAPI/LangChain. Successfully implemented a number of projects, including web applications and Telegram bots (for example: FlowerDelivery — an online flower delivery store using the Django framework and integrated with a Telegram bot based on Aiogram)
 
 AI/ML Prompt & RAG Engineer. Development of multimodal systems and intelligent AI assistants, GUI applications with RAG (Retrieval-Augmented Generation) architecture and vector databases Weaviate, Pinecone, FAISS, ChromaDB, Qdrant and others.
 
